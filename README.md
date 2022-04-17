@@ -1,2 +1,3 @@
 # phone-number-detection
-detecting phone number in string
+detecting Indian phone number in string using python.
+
