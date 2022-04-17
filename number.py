@@ -7,12 +7,7 @@ def isPhonenumber(text):
     return True
             
     
-#print(isPhonenumber("7899492248"))
-#print(" is moshi moshi is phone number")
-#print(isPhonenumber("moshi moshi"))
 
-#message="my phone number 7899492248 and another one 8277083440"
-#from docx import Document
 message="""A random data generator  1234567891 can 
 be useful if you re doing cross-browser testing. 
 For example,
